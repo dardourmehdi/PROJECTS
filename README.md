@@ -59,19 +59,6 @@ mehdi = {
 
 </div>
 
----
-
-## 🎮 Current Quest
-
-```
-[ MAIN QUEST  ] Learn game development fundamentals ........... ██████████ ▶ IN PROGRESS
-[ SIDE QUEST  ] Master C++ for game engines ................... ████░░░░░░ ▶ IN PROGRESS
-[ ACHIEVEMENT ] First game project uploaded to GitHub ......... ░░░░░░░░░░ ▶ LOCKED 🔒
-[ BONUS STAGE ] Create a game from scratch .................... ░░░░░░░░░░ ▶ LOCKED 🔒
-```
-
----
-
 <div align="center">
 
 *"It's dangerous to go alone — but my GitHub is open source 🗡️"*
